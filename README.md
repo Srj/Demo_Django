@@ -7,14 +7,13 @@ OKay People. Follow the lines above sequentially
 1. Open CMD/POWERSHELL/BASH or your preferred shell in the directory. (Make sure it has mysite and requirements.txt)
 2. Now run 
   pip install -r requirements.txt
-  pip install cx_oracle
+
   
-  (It will install Django ar cx_oracle. You need not install them if you have already installed. You may face some error 
+  (It will install Django and cx_oracle. You need not install them if you have already installed. You may face some error 
   during installation due to version mismatch of your python package or permission error)
   Fix: Permission error : Open your Shell as Admin
   FIx: Version Mismatch: 
-    Open a virtualenv(Recommended for your project), activate it and run pip install -r requirements.txt.
-     and pip install cx_oracle
+    Open a virtualenv(Recommended for your project), activate it and run pip install -r requirements.txt
     
 3. row cd into mysite folder
 4. run 
