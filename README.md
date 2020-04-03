@@ -19,5 +19,5 @@ OKay People. Follow the lines above sequentially
 4. run 
   python manage.py runserver
   
- You will see hr countries database printed. 
+ You will see hr countries table printed. 
  for connection details see polls/views.py
