@@ -2,11 +2,11 @@
 
 **Requirements:**
 
-*Python 3.7
+* Python 3.7
 
-*Django 3.0
+* Django 3.0
 
-*Oracle DB 11g2
+* Oracle DB 11g2
 
 **Installation:**
 
@@ -18,13 +18,13 @@ pip install -r requirements.txt
 (It will install Django and cx_oracle. You need not install them if you have already installed. You may face some error 
 during installation due to version mismatch of your python package or permission error)
 ### Fix:
-**Permission error :** 
+**Permission Error :** 
 Open your Shell as Admin
 
 **Version Mismatch :** 
   Open a virtualenv(Recommended for your project), activate it and INSTALL 
   ```
-  virtualenv env
+  virtualenv venv
   \venv\Scripts\activate
   pip install -r requirements.txt
   ```
