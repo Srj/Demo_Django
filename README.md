@@ -29,7 +29,7 @@ Open your Shell as Admin
   pip install -r requirements.txt
   ```
     
-3. row cd into mysite folder and run
+3. Now cd into mysite folder and run
 
 ```
 cd mysite
